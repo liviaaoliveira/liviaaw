@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lívia de Oliveira 😄
 
-- 🔭 Eu estou no 3º ano do Ensino Médio 
-- 🌱 Estudando HTML5, CSS3, JavaScript e TypeScript
+- 🔭 Universitária
+- 🌱 Estudando HTML5, CSS3, JavaScript 
 - 😄 Pronouns: ela/dela
 
 ##
