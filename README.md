@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lívia de Oliveira 😄
 
 - 🔭 Universitária
-- 🌱 Estudando HTML5, CSS3, JavaScript 
+- 🌱 Estudando HTML5, CSS3 e JavaScript 
 - 😄 Pronouns: ela/dela
 
 ##
