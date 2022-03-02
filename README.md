@@ -15,6 +15,5 @@
 </div>
 
 ##
-
 ![Snake animation](https://github.com/liviaaoliveira/liviaaoliveira/blob/output/github-contribution-grid-snake.svg)
 
